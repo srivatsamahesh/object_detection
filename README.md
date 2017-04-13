@@ -39,4 +39,4 @@ rosrun pcl_ros pcd_to_pointcloud ck2_perpendicular.pcd 0.1
 Step 7: in new terminal 
 cd ~/catkin_ws
 source ~/catkin_ws/devel/setup.bash
-rosrun object_detection object_recognition
+rosrun object_detection object_recognition 
